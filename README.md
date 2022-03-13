@@ -1,7 +1,7 @@
-## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kindao11/v2ray-less-heroku.git)
+## v2ray
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Lizihao233/v2ray-less-heroku.git)
 
-### heroku上部署v2ray
+### heroku上部署
 - [x] 支持VMess和VLESS两种协议
 - [x] 支持自定义websocket路径
 - [x] 伪装首页（3D元素周期表）
