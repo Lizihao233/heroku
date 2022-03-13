@@ -1,4 +1,4 @@
-## v2ray
+## wdjd
 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Lizihao233/v2ray-less-heroku.git)
 
 ### heroku上部署
