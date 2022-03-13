@@ -1,5 +1,5 @@
 ## wdjd
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Lizihao233/heroku.git)
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Lizihao233/heroku)
 
 ### heroku上部署
 - [x] 支持VMess和VLESS两种协议
